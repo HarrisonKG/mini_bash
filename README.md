@@ -1,6 +1,4 @@
 Kristen Harrison  
-344 -- Operating Systems  
-Project 3  
   
 I wrote my own simple shell in C, similar to bash, which supports three built-in commands (exit, cd, and status), and handles all others by forking the process and exec'ing the command.   
 
